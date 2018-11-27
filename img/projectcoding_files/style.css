@@ -1,0 +1,29 @@
+body{margin: 0;padding: 0;max-width: 100%;}
+header .navbar{background-color:rgb(255, 115, 0);color: white;overflow: hidden;height: 70px;}
+header .navbar .logo img{float: left;border-radius: 6px;margin: 10px;}
+header .navbar .link ul{list-style: none;float: right;overflow: hidden;margin: 10px;}
+header .navbar .link ul li {padding: 10px;float: left;}
+header .navbar .link ul li a{color:rgb(255, 115, 0);display: inline-block;background-color:white;text-decoration: none;padding: 10 20;
+font-size: bold; text-transform: capitalize;border-radius: 6px;}
+header .navbar .link ul li a:hover{background-color:red;color: white}
+.cycle-slideshow{height: 50%;}
+.cycle-prev{font-size: 100%;display: block;color: rgb(255, 115, 0);position: absolute;top: 40%;z-index:999;cursor:pointer;}
+.cycle-next{font-size: 100%;display: block;color: rgb(255, 115, 0);position: absolute;top: 40%;z-index:999;cursor: pointer;}
+.cycle-prev{left:5%;}
+.cycle-next{right:5%;}
+.head .marquee{background-color:rgb(255, 115, 0);color: white;overflow: hidden;height: 40px;}
+
+.head .marquee p{padding-bottom: 10px;float: left;text-transform: capitalize;color: blue;font-size: 20px;margin: 10px;}
+
+main .frist{text-align: center}
+main .frist .goog-te-combo{width: 50px;height: 25px;}
+ main h2{font-size:25px;text-align: center;color:rgb(255, 115, 0)}
+ main p{font-size: 16px;color: blue;text-justify: justify}
+ 
+ footer{background-color:rgb(255, 115, 0);height: 30px; }
+footer .textbar{background-color:rgb(255, 115, 0);color: white;overflow: hidden;height: 70px;}
+footer .textbar p{float: left;border-radius: 6px;margin: 20px;font-size: 20px;color: green}
+footer .textbar .link ul{list-style: none;float: right;overflow: hidden;margin: 10px;}
+footer .textbar .link ul li {padding: 10px;float: left;}
+footer .textbar .link ul li a{color:rgb(255, 115, 0);display: inline-block;background-color:white;text-decoration: none;padding: 10 20;
+font-size: bold; text-transform: capitalize;border-radius: 6px;}
