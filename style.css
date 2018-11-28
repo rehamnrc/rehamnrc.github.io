@@ -20,7 +20,7 @@ header .navbar .link ul li a:hover{background-color:red;color: white}
  main .frist .goog-te-combo{width: 150px;height: 30px;color:rgb(255, 115, 0);background-color:white;border-radius: 6px;}
  main{width: 100%}
  main  h2{font-size:25px;color:rgb(255, 115, 0);text-align: center;}
- main  p{font-size: 18px;color: blue;}
+ main  p{font-size: 18px;color: black;}
 footer{background-color:rgb(255, 115, 0);height: 150px;}
 footer .textbar{background-color:rgb(255, 115, 0);color: white;overflow: hidden;height: 150px;border-radius: 6px}
 footer .textbar p{border-radius: 6px;margin: 20px;font-size: 20px;color: green;text-align: center; align-content: center}
